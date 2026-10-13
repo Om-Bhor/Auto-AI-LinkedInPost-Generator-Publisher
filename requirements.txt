@@ -1,0 +1,9 @@
+cryptography==45.0.5
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+pydantic
+pydantic-core
+python-dotenv
+ipykernel
